@@ -14,20 +14,19 @@
 
  </div>
 
- <h3 style="font-weight:700;font-size:30px;">AWWWARDS Site of the Day Website</h3>
+ <h3 style="font-weight:700;font-size:30px;">Site of the Day Website</h3>
 
   <div >
     Ready to build a website that has won an Awwwards Site of the Day?
-    This tutorial guides you through creating a stunning, interactive site using <b>GSAP</b>, <b>ReactJS</b>, and <b>Tailwind CSS</b>.
    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1.  [Introduction](#introduction)
-2.  [Tech Stack](#tech-stack)
-3.  [Quick Start](#quick-start)
-5.  [Snippets (Code to Copy)](#snippets)
+1. 🚀 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🤸 [Quick Start](#quick-start)
+4. 🕸️ [Snippets (Code to Copy)](#snippets)
 
 
 ## Introduction
@@ -449,6 +448,3 @@ const cards = [
 
 export { flavorlists, nutrientLists, cards };
 ```
-
-</details>
-
