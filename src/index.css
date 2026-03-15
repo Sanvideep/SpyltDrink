@@ -7,19 +7,19 @@
 }
 
 @theme {
-  --color-black: #222123;
-  --color-main-bg: #232224;
-  --color-white: #ffffff;
-  --color-dark-brown: #523122;
-  --color-mid-brown: #a26833;
-  --color-light-brown: #e3a458;
-  --color-red-brown: #7f3b2d;
-  --color-yellow-brown: #a26833;
-  --color-milk-yellow: #e3d3bc;
-  --color-red: #a02128;
-  --color-milk: #faeade;
+  --color-black: #0F172A;
+  --color-main-bg: #F5F9FF;
+  --color-white: #FFFFFF;
+  --color-dark-brown: #0B1F3A;
+  --color-mid-brown: #1C7ED6;
+  --color-light-brown: #2DD4BF;
+  --color-red-brown: #0B132B;
+  --color-yellow-brown: #60A5FA;
+  --color-milk-yellow: #CFE9FF;
+  --color-red: #F97316;
+  --color-milk: #F9FBFF;
   --font-sans: "Antonio", sans-serif;
-  --font-paragraph: "ProximaNova, sans-serif";
+  --font-paragraph: "ProximaNova", sans-serif;
 }
 
 html,
