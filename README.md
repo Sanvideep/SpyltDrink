@@ -24,13 +24,11 @@
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1. 🚀 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. ✨ [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Assets](#links)
-7. 🌐 [Community](#more)
+1.  [Introduction](#introduction)
+2.  [Tech Stack](#tech-stack)
+3.  [Quick Start](#quick-start)
+5.  [Snippets (Code to Copy)](#snippets)
+
 
 ## Introduction
 
@@ -42,17 +40,6 @@ Dive into creating a cutting-edge web experience designed for Awwwards recogniti
 - 🌀 Tailwind CSS v4
 - 🎞️ GSAP (GreenSock Animation Platform)
 
-## Features
-
-In this course, You’ll learn how to:
-
-- ✨ Parallax Like a Pro
-- ⚡️ Master Clip-Path Magic
-- 🕹️ Control ScrollTrigger & ScrollSmoother
-- 😉 Pin Elements with Style
-- 🧑‍💻 Reveal Text Like Awwwards Pros
-- 👏 Build GSAP Timelines that Actually Feel Good
-- 📱 It's Fully responsive and mobile-friendly
 
 ## Quick Start
 
@@ -465,14 +452,3 @@ export { flavorlists, nutrientLists, cards };
 
 </details>
 
-## Assets
-
-- 🎥 Videos: [`/public/videos`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/videos)
-- 📚 Fonts: [`/public/fonts`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/fonts)
-- 🖼️ Images: [`/public/images`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/images)
-
-## Community
-
-Join the community and connect with other developers!
-
-[![Discord](https://img.shields.io/discord/your-server-id?label=Join%20Discord&logo=discord&style=for-the-badge&color=5865F2)](https://discord.gg/cbtfr4BHF9)
